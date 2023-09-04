@@ -1,4 +1,4 @@
-# Preject_Hospitales
+# Project_Hospitales
 Machine Learning Project
 
 Proyecto en desarrollo. 
